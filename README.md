@@ -1,16 +1,4 @@
-# weatherapp
+This is a simplistic and minimal weather app designed in flutter.This app uses the OpenWeather API to fetch the current weather according to your location and displays it in the app.I also included the dark and light theme mode for easy readability.Hope you enjoy it :)
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/Sy-edUzair/Minimal-Weather-App/assets/115092632/92cf5d99-892c-4d4b-88f9-54386c86eac8)
